@@ -123,7 +123,13 @@ Key metrics:
 
 ## Presentation
 
-**File:** `GoOutside Data Strategy.pptx`
+### Preview Version
+- GoOutside_Data_Strategy.pdf
+
+### Interactive Version
+- GoOutside_Data_Strategy.pptx
+
+The PowerPoint version contains clickable links and an embedded dashboard demonstration video.
 
 The presentation covers:
 
